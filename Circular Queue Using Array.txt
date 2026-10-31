@@ -1,0 +1,19 @@
+Queue is empty!!
+Inserted -> 1
+Inserted -> 2
+Inserted -> 3
+Inserted -> 4
+Inserted -> 5
+Queue is full!!
+Front -> 0
+Items -> 1 2 3 4 5
+Rear -> 4
+Deleted element -> 1
+Front -> 1
+Items -> 2 3 4 5
+Rear -> 4
+Inserted -> 7
+Front -> 1
+Items -> 2 3 4 5 7
+Rear -> 0
+Queue is full!!

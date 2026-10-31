@@ -1,0 +1,14 @@
+OUTPUT
+data appended:10
+data appended:20
+data appended:30
+10 -> 20 -> 30 ->
+data prepended:40
+40 -> 10 -> 20 -> 30 ->
+element delted:20
+40 -> 10 -> 30 ->
+data inserted:50 at position:0
+50 -> 40 -> 10 -> 30 ->
+search element: 40
+data found @:2list data
+50 -> 40 -> 10 -> 30 ->

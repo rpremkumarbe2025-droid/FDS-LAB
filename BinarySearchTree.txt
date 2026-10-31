@@ -1,0 +1,11 @@
+OUTPUT:
+Inorder Traversal: 10 30 50 70 80
+Preorder Traversal: 50 10 30 70 80
+Postorder Traversal: 30 10 80 70 50
+Enter value to search: 30
+Element 30 found in the BST.
+Inorder Traversal: 10 30 50 70 80
+Preorder Traversal: 50 10 30 70 80
+Postorder Traversal: 30 10 80 70 50
+Enter value to search: 55
+Element 55 NOT found in the BST.

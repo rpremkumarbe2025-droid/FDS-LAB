@@ -1,0 +1,12 @@
+AVL Tree Implementation
+Enter number of nodes: 6
+Enter value: 10
+Enter value: 20
+Enter value: 30
+Enter value: 40
+Enter value: 50
+Enter value: 25
+
+Inorder Traversal: 10 20 25 30 40 50
+Preorder Traversal: 30 20 10 25 40 50
+Postorder Traversal: 10 25 20 50 40 30

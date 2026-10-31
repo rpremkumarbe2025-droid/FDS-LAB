@@ -1,0 +1,13 @@
+OUTPUT
+Element inserted is : 10
+Element inserted is : 20
+Element inserted is : 30
+Element inserted is : 50
+Element inserted is : 50
+Element inserted is : 60
+Queue is :
+10 20 30 50 50 60
+Element deleted is : 10
+Element deleted is : 20
+Queue is :
+30 50 50 60

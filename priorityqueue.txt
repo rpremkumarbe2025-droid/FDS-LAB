@@ -1,0 +1,2 @@
+2 dequeued from queue
+Top element is 3

@@ -1,0 +1,19 @@
+OUTPUT
+element pushed into stack:10
+element pushed into stack:20
+element pushed into stack:30
+element pushed into stack:40
+element pushed into stack:50
+STACK is over flow
+The elements in STACK:
+50
+40
+30
+20
+10
+The popped elements is 50
+The popped elements is 40
+The popped elements is 30
+The popped elements is 20
+The popped elements is 10
+Stack is under flow

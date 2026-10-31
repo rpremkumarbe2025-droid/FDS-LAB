@@ -1,0 +1,8 @@
+OUTPUT:
+
+Original array: 24 9 29 14 19 4
+
+Sorted array: 4 9 14 19 24 29
+
+ 
+

@@ -1,0 +1,10 @@
+OUTPUT
+element pushed:10
+element pushed:20
+element pushed:30
+The stack is:
+30--->20--->10--->NULL
+element poped 30
+element poped 20
+The stack is:
+10--->NULL

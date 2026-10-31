@@ -1,0 +1,8 @@
+OUTPUT
+Node is Inserted:10
+Node is Inserted:20
+Node is Inserted:30
+The queue is
+10--->20--->30--->NULL
+The queue is
+20--->30--->NUL

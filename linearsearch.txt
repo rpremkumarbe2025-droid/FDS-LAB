@@ -1,0 +1,10 @@
+OUTPUT:
+86 91 34 50 10
+
+element:50
+
+found at postion:3
+
+element:89  
+
+not found

@@ -1,0 +1,13 @@
+OUTPUT
+the element appended: 10
+the element appended: 20
+the element appended: 30
+NULL <->10 <->20 <->30 <->NULL
+the element prepended: 40
+NULL <->40 <->10 <->20 <->30 <->NULL
+total elements:4
+ ----
+the element deleted: 30
+NULL <->40 <->10 <->20 <->NULL
+total elements:3
+NULL <->20 <->10 <->40 <->NULL

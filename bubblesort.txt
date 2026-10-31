@@ -1,0 +1,21 @@
+ 
+
+OUTPUT:
+
+ 
+
+unsorted array:
+
+5 4 8 1 2
+
+4 5 1 2 8
+
+4 1 2 5 8
+
+1 2 4 5 8
+
+1 2 4 5 8
+
+sorted Array ascending order:
+
+1 2 4 5 8
